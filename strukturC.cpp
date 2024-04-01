@@ -29,5 +29,5 @@ int main()
     cout << "\nAlamat : " << mhs.alamat;
     cout << "\nUmur : " << mhs.umur;
 }
-
+ 
 
