@@ -22,7 +22,7 @@ int main()
     cin >> mhs.alamat;
     cout << "Umur Mahasiswa : ";
     cin >> mhs.umur;
-
+     
     cout << endl;
     cout << "\nNIM : " << mhs.nim;
     cout << "\nNama : " << mhs.nama;
